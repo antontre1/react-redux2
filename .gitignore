@@ -1,0 +1,6 @@
+node_modules
+# exclude everything in dist folder
+dist/*
+# exception to the rule
+!dist/.gitkeep
+.vscode
